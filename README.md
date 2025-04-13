@@ -29,11 +29,3 @@ This repository contains a Jupyter Notebook that summarizes key tools and compon
 ## 🧑‍💻 Author
 Manya Agrawal
 
----
-
-## 🌐 How to View
-To open this notebook:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
